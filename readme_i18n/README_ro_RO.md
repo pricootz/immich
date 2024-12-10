@@ -49,12 +49,12 @@
 ## Cuprins
 
 - 📖 [Documentație Oficială](https://immich.app/docs)
-- [📋 Plan de dezvoltare](https://github.com/orgs/immich-app/projects/1)
+- 📋 [Plan de dezvoltare](https://github.com/orgs/immich-app/projects/1)
 - [Demo](#demo)
 - [Funcționalități](#features)
 - [Introducere](https://immich.app/docs/overview/introduction)
 - [Instalare](https://immich.app/docs/install/requirements)
-- [🤝 Ghid pentru contribuții](https://immich.app/docs/overview/support-the-project)
+- 🤝 [Ghid pentru contribuții](https://immich.app/docs/overview/support-the-project)
 
 ## Documentație
 
