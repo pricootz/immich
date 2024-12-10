@@ -48,7 +48,7 @@
 
 ## Cuprins
 
-- [📖 Documentație Oficială](https://immich.app/docs)
+- 📖 [Documentație Oficială](https://immich.app/docs)
 - [📋 Plan de dezvoltare](https://github.com/orgs/immich-app/projects/1)
 - [Demo](#demo)
 - [Funcționalități](#features)
