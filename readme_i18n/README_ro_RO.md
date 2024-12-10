@@ -11,8 +11,10 @@
 <p align="center">
 <img src="../design/immich-logo-stacked-light.svg" width="300" title="Login With Custom URL">
 </p>
-<h3 align="center">Immich - Soluzione self-hosted ad alte prestazioni per backup di foto e video</h3>
+<h3 align="center">Immich - Soluție self-hosted de înaltă performanță pentru backup-ul fotografiilor și videoclipurilor</h3>
+
 <br/>
+
 <a href="https://immich.app">
 <img src="../design/immich-screenshots.png" title="Main Screenshot">
 </a>
@@ -39,20 +41,20 @@
 
 ## Declinare de responsabilitate
 
-- ⚠️ Proiectul se află într-o fază de dezvoltare foarte intensă.
+- ⚠️ Proiectul se află într-o fază de dezvoltare **foarte intensă**.
 - ⚠️ Posibilitate de erori și modificări semnificative.
-- ⚠️ Nu utilizați aplicația ca singură metodă de salvare a fotografiilor și videoclipurilor.
+- ⚠️ **Nu utilizați aplicația ca singură metodă de salvare a fotografiilor și videoclipurilor**.
 - ⚠️ Utilizați întotdeauna o strategie de backup [3-2-1](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/) pentru fotografiile și videoclipurile importante!
 
-## Contenuto
+## Cuprins
 
-- [Documentazione Ufficiale](https://immich.app/docs)
-- [Roadmap](https://github.com/orgs/immich-app/projects/1)
+- [Documentație Oficială](https://immich.app/docs)
+- [Plan de dezvoltare](https://github.com/orgs/immich-app/projects/1)
 - [Demo](#demo)
-- [Funzionalità](#features)
-- [Introduzione](https://immich.app/docs/overview/introduction)
-- [Installazione](https://immich.app/docs/install/requirements)
-- [Linee Guida per Contribuire](https://immich.app/docs/overview/support-the-project)
+- [Funcționalități](#features)
+- [Introducere](https://immich.app/docs/overview/introduction)
+- [Instalare](https://immich.app/docs/install/requirements)
+- [Ghid pentru contribuții](https://immich.app/docs/overview/support-the-project)
 
 ## Documentazione
 
