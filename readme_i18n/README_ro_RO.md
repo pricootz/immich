@@ -60,7 +60,7 @@
 
 La documentazione ufficiale, inclusa la guida all'installazione, è disponibile qui: https://immich.app/.
 
-## Demo
+## 🎮 Demo
 
 Prova la demo del progetto https://demo.immich.app
 
@@ -76,7 +76,7 @@ password: demo
 Spec: Free-tier Oracle VM - Amsterdam - 2.4Ghz quad-core ARM64 CPU, 24GB RAM
 ```
 
-# Funzionalità
+# ⚙️ Funzionalità
 
 | Funzionalità                                   | Mobile | Web |
 | ---------------------------------------------- | ------ | --- |
