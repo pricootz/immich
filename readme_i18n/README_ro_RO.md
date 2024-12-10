@@ -56,7 +56,7 @@
 - [Instalare](https://immich.app/docs/install/requirements)
 - [Ghid pentru contribuții](https://immich.app/docs/overview/support-the-project)
 
-## Documentazione
+## Documentație
 
 La documentazione ufficiale, inclusa la guida all'installazione, è disponibile qui: https://immich.app/.
 
